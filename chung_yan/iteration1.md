@@ -21,31 +21,43 @@ Distance among commercial blocks in the same parcel is 6m while the height of co
 ![Fig.: Solar Factor](imgs/OP1_2SOLARFACTOR.jpg)
 * **Solar Factor**</br>
 Blue color indicates space having good value for solar factor. Most of the buildings do not have excessive heat gain from sunlight except residential blocks at North-West.
+
 </br></br></br>
+
 ![Fig.: Daylight Factor](imgs/OP1_1DAYLIGHTFACTOR.jpg)
 ![Fig.: Daylight Factor](imgs/OP1_2DAYLIGHTFACTOR.jpg)
 * **Daylight Factor**</br>
 The result reflects that provision of daylighting for South-West or North-West facing elevations is poor. The South-East elevations of some buildings also fail to access sufficient daylight. It might because of the closely packed arrangement among building blocks.
+
 </br></br></br>
+
 ![Fig.: Sky Exposure Factor](imgs/OP1_3SKYEXPOSURE.jpg)
 * **Sky Exposure Factor**</br>
 Road between each parcel is designed to be 24m wide to provide 3m pedestrian road, 8m traffic lanes for both side and a 2m tree lawn in the middle. The result is almost satisfied except four roads at South-East area. It might because of the fact that most of the tall residential buildings are located at South-East, which obstructs the access of sun light to the street level.
+
 </br></br></br>
+
 ![Fig.: View Factor](imgs/OP1_1VIEWFACTOR.jpg)
 ![Fig.: View Factor](imgs/OP1_2VIEWFACTOR.jpg)
 * **View Factor**</br>
 (Results is provided for referenced but view factor is not discussed in this chapter.)
+
 </br></br></br>
+
 ![Fig.: Good Window Threshold](imgs/OP1_1GOODWINDOW.jpg)
 ![Fig.: Good Window Threshold](imgs/OP1_2GOODWINDOW.jpg)
 * **Good Window Threshold**</br>
 Not more than one-fourth of windows are defined as “good window”. This indicates improvements need to be made to provide enough daylighting for South-West and North-West elevations.
+
 </br></br></br>
+
 ![Fig.: Good Building Threshold](imgs/OP1_1GOODBUILDING.jpg)
 ![Fig.: Good Building Threshold](imgs/OP1_2GOODBUILDING.jpg)
 * **Good Building Threshold**</br>
 The poor result from good window threshold also leads to a bad result in good building threshold. Nearly half of the buildings meet the requirement even they all get a good passive ratio.
+
 </br></br></br>
+
 ## Evaluation
 These are the suggestions for refinements in the 2nd iteration:
 
