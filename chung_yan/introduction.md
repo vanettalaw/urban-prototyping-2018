@@ -1,8 +1,6 @@
 # Introduction
 
-This chapter is an attempt to overcome the mentioned limitations, setting up rules or providing guidelines to decrease the difficulties to integrate fragments to the existent by considering only few measurable dimensions for the first stage of design thinking.
-
-The site in One North has a 75 Ha area between Dover Road and AYE. It is designed to meet the target population of 75000 people in this project. Housing and commercial spaces are added to the neighborhood to revitalize the depressed area, as well as to provide accommodation for NUS students. The new community space should be more livable and vibrant.
+This chapter is an attempt to overcome the mentioned limitations, setting up rules or providing guidelines to decrease the difficulties to integrate fragments to the existent by considering only few measurable dimensions for the first stage of design thinking. The site in One North has a 75 Ha area between Dover Road and AYE. It is designed to meet the target population of 75000 people in this project. Housing and commercial spaces are added to the neighborhood to revitalize the depressed area, as well as to provide accommodation for NUS students. The new community space should be more livable and vibrant.
 
 Given the above issues, we have set some fixed and variable factors for building typologies during the design process of three iterations:
 
